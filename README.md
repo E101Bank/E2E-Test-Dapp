@@ -3,11 +3,13 @@
 
 ## Usage
   If you wish to use this dapp in your e2e tests, install this package and set up a script of e.g. the following form:
-
+  
 ```shell
    static-server node_modules/@metamask/test-dapp/dist --port 9011
 ```
+
 ## Development
+![2023-02-08 (1)](https://user-images.githubusercontent.com/91811381/217407430-ec182b07-234e-4b84-b07d-0e22df2f7bc5.png)
 
 ### Requires Manual Deployment
 
